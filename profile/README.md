@@ -31,21 +31,21 @@
 
 #### More repositories at [Java-And-Design-Patterns](https://github.com/Java-And-Design-Patterns)
 
-<a href="https://github.com/hoc081098/WeatherApp_MVI_sample">
+<a href="https://github.com/hoangtien2k3/Java">
   <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=hoangtien2k3&repo=Java&bg_color=ffffff" height="148" width="399"/>
 </a>
 
-<a href="https://github.com/Kotlin-Android-Open-Source/MVI-Coroutines-Flow">
+<a href="https://github.com/Java-And-Design-Patterns/Java-design-patterns">
   <img align="right" src="https://github-readme-stats.vercel.app/api/pin/?username=Java-And-Design-Patterns&repo=Java-design-patterns&bg_color=ffffff" height="148" width="399"/>
 </a>
 
 <br>
 
-<a href="https://github.com/hoc081098/Movie-Ticket-Booking">
+<a href="https://github.com/hoangtien2k3/Code-C-plus-plus">
   <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=hoangtien2k3&repo=Code-C-plus-plus&bg_color=ffffff" height="148" width="399"/>
 </a>
 
-<a href="https://github.com/hoc081098/rx_shared_preferences">
+<a href="https://github.com/hoangtien2k3/Data-Structure-And-Algorithm">
   <img align="right" src="https://github-readme-stats.vercel.app/api/pin/?username=hoangtien2k3&repo=Data-Structure-And-Algorithm&bg_color=ffffff" height="148" width="399"/>
 </a>
 
