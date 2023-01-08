@@ -15,38 +15,4 @@
 
 
     
-<div align="center">
- <br/>
-
-<p align="center">
-	<a href="mailto:hoangtien2k3qx1@gmail.com"><img alt="twitter" width="10%" style="padding:5px" src="https://img.icons8.com/clouds/100/000000/email.png"/></a>
-	<a href="https://github.com/hoangtien2k3"><img alt="github" width="10%" style="padding:5px" src="https://img.icons8.com/clouds/100/000000/github.png"/></a>
-	<a href="https://www.linkedin.com/in/hoang-anh-tien-928388193/"><img alt="linkedin" width="10%" style="padding:5px" src="https://img.icons8.com/clouds/100/000000/linkedin.png"/></a>
-	<a href="https://www.facebook.com/hoangtien2k3.vn/"><img alt="facebook" width="10%" style="padding:5px" src="https://img.icons8.com/clouds/100/000000/facebook-new.png"/></a>
-	<a href="https://www.instagram.com/hoangtien2k3.vn/"><img alt="instagram" width="10%" style="padding:5px" src="https://img.icons8.com/clouds/100/000000/instagram.png"/></a>
-	<a href="https://www.youtube.com/channel/UCV9v7sWQb2XTa7bd2cR0hZQ"><img alt="twitter" width="10%" style="padding:5px" src="https://img.icons8.com/clouds/100/000000/youtube.png"/></a>
-	<a href="tel:843"><img width="10%" style="padding:5px" src="https://img.icons8.com/clouds/100/000000/apple-phone.png"/></a>
-</p>    
-
-
-#### More repositories at [Java-And-Design-Patterns](https://github.com/Java-And-Design-Patterns)
-
-<a href="https://github.com/hoangtien2k3/Java">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=hoangtien2k3&repo=Java&bg_color=ffffff" height="148" width="399"/>
-</a>
-
-<a href="https://github.com/Java-And-Design-Patterns/Java-design-patterns">
-  <img align="right" src="https://github-readme-stats.vercel.app/api/pin/?username=Java-And-Design-Patterns&repo=Java-design-patterns&bg_color=ffffff" height="148" width="399"/>
-</a>
-
-<br>
-
-<a href="https://github.com/hoangtien2k3/Code-C-plus-plus">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=hoangtien2k3&repo=Code-C-plus-plus&bg_color=ffffff" height="148" width="399"/>
-</a>
-
-<a href="https://github.com/hoangtien2k3/Data-Structure-And-Algorithm">
-  <img align="right" src="https://github-readme-stats.vercel.app/api/pin/?username=hoangtien2k3&repo=Data-Structure-And-Algorithm&bg_color=ffffff" height="148" width="399"/>
-</a>
-
 
