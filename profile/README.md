@@ -29,12 +29,7 @@
 </p>    
 
 
-
-
-
 #### More repositories at [Java-And-Design-Patterns](https://github.com/Java-And-Design-Patterns)
-
-#### About my github at [hoangtien2k3](https://github.com/hoangtien2k3)
 
 <a href="https://github.com/hoc081098/WeatherApp_MVI_sample">
   <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=hoangtien2k3&repo=Java&bg_color=ffffff" height="148" width="399"/>
